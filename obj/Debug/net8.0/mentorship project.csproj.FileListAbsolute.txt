@@ -1,0 +1,15 @@
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\bin\Debug\net8.0\mentorship project.exe
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\bin\Debug\net8.0\mentorship project.deps.json
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\bin\Debug\net8.0\mentorship project.runtimeconfig.json
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\bin\Debug\net8.0\mentorship project.dll
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\bin\Debug\net8.0\mentorship project.pdb
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.AssemblyInfoInputs.cache
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.AssemblyInfo.cs
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.sourcelink.json
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.dll
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\refint\mentorship project.dll
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.pdb
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\mentorship project.genruntimeconfig.cache
+C:\Users\MY LAPTOP\Desktop\Mentorship-project\obj\Debug\net8.0\ref\mentorship project.dll

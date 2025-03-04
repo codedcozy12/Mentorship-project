@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OWNER\\Desktop\\mentorship project\\mentorship project.csproj": {}
+    "C:\\Users\\MY LAPTOP\\Desktop\\Mentorship-project\\mentorship project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OWNER\\Desktop\\mentorship project\\mentorship project.csproj": {
+    "C:\\Users\\MY LAPTOP\\Desktop\\Mentorship-project\\mentorship project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OWNER\\Desktop\\mentorship project\\mentorship project.csproj",
+        "projectUniqueName": "C:\\Users\\MY LAPTOP\\Desktop\\Mentorship-project\\mentorship project.csproj",
         "projectName": "mentorship project",
-        "projectPath": "C:\\Users\\OWNER\\Desktop\\mentorship project\\mentorship project.csproj",
-        "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OWNER\\Desktop\\mentorship project\\obj\\",
+        "projectPath": "C:\\Users\\MY LAPTOP\\Desktop\\Mentorship-project\\mentorship project.csproj",
+        "packagesPath": "C:\\Users\\MY LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY LAPTOP\\Desktop\\Mentorship-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MY LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
